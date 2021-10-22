@@ -22,3 +22,7 @@ Esse readme será atualizado com frequência a medida que os autores decidirem.
 
 * Node.js;
 * Mais alguma outra coisa que decidirmos.
+
+## Arquitetura do Projeto:
+
+* Não sei.
