@@ -4,6 +4,10 @@ Esse será um projeto realizado em conjunto. Seu principal objetivo é o aprendi
 
 Esse readme será atualizado com frequência a medida que os autores decidirem.
 
+## Desenvolvedores:
+
+* [Evelyn Fernandes](https://github.com/yoruwitch);
+* [Isadora Gonçalves Ferreira](https://github.com/isa56);
 
 ## Linguagens e Tecnologias usadas:::
 
