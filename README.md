@@ -2,7 +2,7 @@
 
 ## Objetivos do projeto:
 
-* Feito inicialmente para fins acadêmicos, o Projeto Gama deseja construir uma plataforma para postagens de fanfictions e afins.
+*Feito inicialmente para fins acadêmicos, o Projeto Gama deseja construir uma plataforma para postagens de fanfictions e afins.
 
 Esse será um projeto realizado em conjunto. Seu principal objetivo é o aprendizado das linguagens e tecnologias a serem descritas.
 
